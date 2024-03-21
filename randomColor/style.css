@@ -42,8 +42,10 @@ button {
         height: 100px;
     }
 
-    button{
-        width: 50px;
+    button {
+        display: flex;
+        align-self: center;
+        width: 115px;
     }
 
 }
